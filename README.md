@@ -9,6 +9,108 @@
 </p>
 <a href="#"><img title="OWNER : GHOST" src="https://img.shields.io/badge/ES NECESARIO QUE LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
  
+
+<p align="center">
+</p>
+<a href="#"><img title="OWNER : GHOST" src="https://img.shields.io/badge/ES NECESARIO QUE LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
+
+
+### INSTALACION ACCESO VIP :
+```
+termux-setup-storage
+```
+```
+apt update 
+```
+```
+pkg upgrade 
+```
+```
+pkg install git -y
+```
+```
+pkg install nodejs -y
+```
+```
+pkg install ffmpeg -y
+```
+```
+pkg install imagemagick -y
+```
+``` 
+pkg install yarn
+```
+```
+git clone https://github.com/WHATSAPP-VIP/BOT
+```
+```
+cd BOT
+```
+```
+npm install
+```
+``` 
+yarn install 
+```
+```
+npm install
+```
+```
+npm update
+```
+```
+ls
+```
+```
+npm start
+```
+----    
+### ACTIVAR EN CASO DE DETENERSE <img src="https://i.pinimg.com/originals/0e/c9/89/0ec989dde8b5fc0deef4e5b09292b605.gif" height="30px">
+
+~ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+```
+cd 
+```
+```
+cd BOT
+```
+```
+npm start
+```
+------
+
+### OBTENER OTRO CODIGO QR <img src="http://4.bp.blogspot.com/-mFQY5cKLkQ0/U0kwKQn5RzI/AAAAAAAADk0/FDOXxWZ9grU/s1600/QR-code-color.png" height="30px">
+
+~ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+```
+cd 
+```
+```
+cd BOT
+```
+```
+rm -rf session.data.json
+```
+```
+npm start
+```
+----
+  
+### NOTA 
+```bash
+- ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
+- REPORTA CUALQUIER FALLO CON EL COMANDO DE REPORTE 
+- PARA PODER ESCANEAR EL CODIGO QR DEBES SER PARTICIPANTE DE LA VERSION MULTI-DEVICE (BETA) DE WHATSAPP
+- NO MODIFIQUES NADA QUE NO SEPAS PARA QUE ES, PARA EVITAR PROBLEMAS O ERRORES
+- EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
+- EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE 
+- EL BOT FUNCIONA AUNQUE EL WHATSAPP NO TENGA CONEXION 
+- SE RECOMIENDA REESCANEAR EL CODIGO QR CADA 2 DIAS, PARA EVITAR PROBLEMAS O ERRORES
+```
+----
+FIN.
+
+    
 ### NOTA 
 ```bash
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
