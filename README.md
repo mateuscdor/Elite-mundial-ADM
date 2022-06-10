@@ -44,7 +44,7 @@ pkg install yarn
 git clone https://github.com/WHATSAPP-VIP/BOT
 ```
 ```
-cd BOT
+cd [❌]
 ```
 ```
 npm install
@@ -62,7 +62,7 @@ npm update
 ls
 ```
 ```
-npm start
+npm [❌]
 ```
 ----    
 ### ACTIVAR EN CASO DE DETENERSE <img src="https://i.pinimg.com/originals/0e/c9/89/0ec989dde8b5fc0deef4e5b09292b605.gif" height="30px">
@@ -72,10 +72,10 @@ npm start
 cd 
 ```
 ```
-cd BOT
+cd [❌]
 ```
 ```
-npm start
+npm [❌]
 ```
 ------
 
@@ -86,13 +86,13 @@ npm start
 cd 
 ```
 ```
-cd BOT
+cd [❌]
 ```
 ```
 rm -rf session.data.json
 ```
 ```
-npm start
+npm [❌]
 ```
 ----
   
