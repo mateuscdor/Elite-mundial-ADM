@@ -1,6 +1,6 @@
 {
     "name": "VIP-VIP",
-    "version": "∞ Meta",
+    "version": "1.0",
     "description": "BOT GESTOR DE GRUPOS WHATSAPP",
     "main": "index.js",
     "type": "module",
