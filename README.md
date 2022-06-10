@@ -41,7 +41,7 @@ pkg install imagemagick -y
 pkg install yarn
 ```
 ```
-git clone https://github.com/WHATSAPP-VIP/BOT
+git clone https://github.com/ELITE-MUNDIAL/ADM
 ```
 ```
 cd [❌]
