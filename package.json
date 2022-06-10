@@ -14,16 +14,16 @@
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
         "db": "node . --autocleartmp --db 'mongodb+srv://BrunoSobrino:Akhmad6825@cluster0.mflne.mongodb.net/TheMystic-Bot?retryWrites=true&w=majority'"
     },
-    "homepage": "https://github.com/WHATSAPP-VIP",
+    "homepage": "https://github.com/ELITE-MUNDIAL",
     "author": {
         "name": "WHATSAPP-VIP"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/WHATSAPP-VIP/BOT.git"
+        "url": "git+https://github.com/ELITE-MUNDIAL/ADM.git"
     },
     "bugs": {
-        "url": "https://github.com/WHATSAPP-VIP/BOT/issues"
+        "url": "https://github.com/ELITE-MUNDIAL/ADM/issues"
     },
     "license": "MIT",
     "dependencies": {
