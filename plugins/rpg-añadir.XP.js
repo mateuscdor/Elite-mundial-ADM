@@ -22,6 +22,6 @@ users[who].exp += xp
 }
 handler.help = ['addxp <@user>']
 handler.tags = ['xp']
-handler.command = ['añadirxp'] 
+handler.command = ['añadirxp', 'addxp'] 
 handler.rowner = true
 export default handler
