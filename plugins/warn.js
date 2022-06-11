@@ -12,7 +12,7 @@ let handler = async (m, { conn, groupMetadata }) => {
         global.db.data.users[mention].warn = 0
         m.reply('*Seras eliminado por acumular 3 advertencias*')
         await time(5000)
-        conn.groupParticipantsUpdate(m.chat, [users], 'remove')
+        conn.groupParticipantsUpdate(m.chat, [user], 'remove')
         m.reply(`*Fuiste eliminado del grupo* ${groupMetadata.subject} *porque has recibido 3 advertencias*`, mention)
     }
 }
