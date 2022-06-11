@@ -1,5 +1,5 @@
 # BOT GESTOR GRUPOS DE WHATASAPP. <img src="https://www.adslzone.net/app/uploads-adslzone.net/2021/05/hacker-tipos.jpg?x=480&y=375&quality=40" height="42px">
-> #### 🚀 Versión actual: 99.9.1
+> #### 🚀 Versión actual: 99.9.2
 
 <p align="center"> 
   <a href="https://github.com/WHATSAPP-VIP"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=f6291a&center=falso&vCenter=falso&lines=✦҈͜͡➳👻𝕲𝔥𝔬𝔰𝔱•✓☆ۣۜۜ͜͡🌹++%F0%9F%8C%80;Desarrollador+en+fase+beta.+%F0%9F%90%B2" height="90px"
