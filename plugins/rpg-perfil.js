@@ -21,7 +21,7 @@ let str = `*𝙽𝙾𝙼𝙱𝚁𝙴:* ${username} ${registered ? '(' + name + '
 *𝙿𝚁𝙴𝙼𝙸𝚄𝙼:* ${prem ? 'Si' : 'No'}
 *𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝚂𝙴𝚁𝙸𝙴:* 
 ${sn}`
-conn.sendButton(m.chat, str, author, await(await fetch(pp)).buffer(), [['𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '/menu']], m)
+conn.sendButton(m.chat, str, author, await(await fetch(pp)).buffer(), [['🎁', '/minar']], m)
 }}
 handler.help = ['profile [@user]']
 handler.tags = ['xp']
